@@ -3,7 +3,7 @@ source
 
 
 gem "rspec"
-gem "sinatra"
+gem "sinatra", "~> "
 gem "hashie"
 gem
 
